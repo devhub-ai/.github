@@ -1,9 +1,4 @@
-
-<img src= "https://github.com/user-attachments/assets/578c092b-2645-45cb-afc2-b6c5b0553986" width="80px" align="left">
- 
-### devhub-ai 🚀
-
----
+# devhub-ai 🚀
 
 Welcome to **DevHub-AI**! We are a community-driven organization focused on building packages, modules, tools, and platforms using the latest in AI technologies. Our mission is to leverage the power of Artificial Intelligence to create open-source solutions that empower developers, businesses, and researchers to unlock the potential of AI in their work.
 
@@ -12,8 +7,13 @@ At **DevHub-AI**, we believe in democratizing AI by making it accessible, easy t
 
 ## Projects we are working on 🚧
 We are actively working on innovative solutions like:
-- knowledge-map 
-- devhub
+
+| Repository Name | Link | Description |
+|-----------------|------|-------------|
+| **knowledge-map** | [GitHub - knowledge-map](https://github.com/devhub-ai/knowledge-map) | Python module which can be used to convert any data into a Knowledge Graph. |
+| **devhub** | [GitHub - devhub](https://github.com/devhub-ai/devhub) | Platform to connect people using graph, LLM, and based on skills of individuals. |
+| **devmap** | [GitHub - devmap](https://github.com/devhub-ai/devmap) | Detailed roadmap of becoming a pro developer. |
+
 
 ## Get Involved 👐
 We're always on the lookout for collaborators and contributors! Whether you’re a developer, data scientist, or AI enthusiast, you can join us to build something incredible together.
